@@ -1,0 +1,26 @@
+{
+  "name": "pinklily",
+  "displayName": "PinkLily",
+  "description": "lilies.",
+  "version": "0.0.1",
+  "publisher": "yuna495",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuna495/pinklily.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "PinkLily",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PinkLily-color-theme.json"
+      }
+    ]
+  }
+}
