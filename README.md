@@ -6,10 +6,10 @@ select pinklily-0.0.1.vsix and proceed with the installation.
 
 
 ## Python Sample
-![Python Example](sampleimage/C#_Sample.png)
+![Python Example](sampleimage/Python_Sample.png)
 ## Java Sample
 ![Java Example](sampleimage/Java_Sample.png)
 ## C# Sample
-![C# Example](sampleimage/Python_Sample.png)
+![C# Example](sampleimage/C#_Sample.png)
 
 **Enjoy!**
