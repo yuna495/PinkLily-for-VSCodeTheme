@@ -10,6 +10,6 @@ select pinklily-0.0.1.vsix and proceed with the installation.
 ## Java Sample
 ![Java Example](sampleimage/Java_Sample.png)
 ## C# Sample
-![C# Example](sampleimage/C#_Sample.png)
+![Csharp Example](sampleimage/Csharp_Sample.png)
 
 **Enjoy!**
