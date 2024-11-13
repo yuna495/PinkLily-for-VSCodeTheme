@@ -1794,7 +1794,7 @@
     "titleBar.border": "#c21f6540",
     "commandCenter.foreground": "#39c7bf",
     "commandCenter.activeForeground": "#39c7bf",
-    "keybindingLabel.background": "#ff1ab3",
+    "keybindingLabel.background": "#c21f6540",
     "keybindingLabel.foreground": "#39c7bf",
     "menubar.selectionForeground": "#E0A3C2",
     "menubar.selectionBackground": "#c21f65d9",
