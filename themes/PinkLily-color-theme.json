@@ -1845,8 +1845,6 @@
     "editor.lineHighlightBorder": "#282828",
     "editorLineNumber.activeForeground": "#39c7bf",
     "editorLink.activeForeground": "#00e6bb",
-    "editorIndentGuide.background190": "#404040",
-    "editorIndentGuide.activeBackground1": "#707070",
     "editorRuler.foreground": "#5a5a5a",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
@@ -2001,6 +1999,18 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#fdd26e",
     "debugExceptionWidget.background": "#910fd983",
-    "debugExceptionWidget.border": "#47474700"
+    "debugExceptionWidget.border": "#47474700",
+    "editorIndentGuide.background1": "#b22222",
+    "editorIndentGuide.background2": "#ff4500",
+    "editorIndentGuide.background3": "#ffd700",
+    "editorIndentGuide.background4": "#228b22",
+    "editorIndentGuide.background5": "#000080",
+    "editorIndentGuide.background6": "#8b008b",
+    "editorIndentGuide.activeBackground1": "#6dcc4e",
+    "editorIndentGuide.activeBackground2": "#6dcc4e",
+    "editorIndentGuide.activeBackground3": "#6dcc4e",
+    "editorIndentGuide.activeBackground4": "#6dcc4e",
+    "editorIndentGuide.activeBackground5": "#6dcc4e",
+    "editorIndentGuide.activeBackground6": "#6dcc4e"
   }
 }
