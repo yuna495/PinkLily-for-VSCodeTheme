@@ -11,7 +11,7 @@
     "Themes"
   ],
   "repository": {
-    "type": "git",
+    "type": "github",
     "url": "https://github.com/yuna495/PinkLily.git"
   },
   "contributes": {
