@@ -2,13 +2,14 @@
   "name": "pinklily",
   "displayName": "PinkLily",
   "description": "Pinklilie.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "yuna495",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "repository": {
     "type": "github",
