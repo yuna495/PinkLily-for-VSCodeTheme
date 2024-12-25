@@ -2,7 +2,7 @@
   "name": "pinklily",
   "displayName": "PinkLily",
   "description": "Pinklilie.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "yuna495",
   "engines": {
     "vscode": "^1.90.0"
