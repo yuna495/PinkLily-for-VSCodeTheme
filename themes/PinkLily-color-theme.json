@@ -482,7 +482,7 @@
     },
     {
       "name": "python logical",
-      "scope": "keyword.operator.logical.python,keyword.operator.assignment.python,keyword.operator.comparison.python",
+      "scope": "keyword.operator.logical.python,keyword.operator.assignment.python,keyword.operator.comparison.python,keyword.operator.arithmetic.python",
       "settings": {
         "fontStyle": "italic",
         "foreground": "#ff14e0"
@@ -1329,7 +1329,7 @@
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#f44747"
+        "foreground": "#e73752"
       }
     },
     {
@@ -1854,7 +1854,7 @@
     "textLink.foreground": "#ff77b1",
     "editor.background": "#0e0e0e",
     "editor.foreground": "#46d2e8",
-    "editorLineNumber.foreground": "#f5cdd8",
+    "editorLineNumber.foreground": "#fd9bcc",
     "editorCursor.foreground": "#ff14e0",
     "editorCursor.background": "#f5cdd8",
     "editor.selectionBackground": "#ff14e056",
@@ -2017,7 +2017,7 @@
     "minimapGutter.modifiedBackground": "#cfadffab",
     "minimapGutter.deletedBackground": "#e73752",
     "minimap.findMatchHighlight": "#bb57ff83",
-    "minimap.selectionHighlight": "#ff14e056",
+    "minimap.selectionHighlight": "#ff14e080",
     "minimap.errorHighlight": "#e73752",
     "minimap.warningHighlight": "#fdd26e",
     "minimap.background": "#121212",
