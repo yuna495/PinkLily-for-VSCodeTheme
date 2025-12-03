@@ -1839,9 +1839,9 @@
     "list.warningForeground": "#fdd26e",
     "list.activeSelectionBackground": "#ff14e099",
     "list.inactiveSelectionBackground": "#ff14e056",
-    "list.hoverBackground": "#ff14e016",
-    "list.focusBackground": "#ff14e056",
-    "list.dropBackground": "#383b3d",
+    "list.hoverBackground": "#46d2e820",
+    "list.focusBackground": "#ff14e040",
+    "list.dropBackground": "#11ff8420",
     "listFilterWidget.background": "#ff14e0c3",
     "listFilterWidget.outline": "#ff14e040",
     "listFilterWidget.noMatchesOutline": "#e73752",
@@ -1915,6 +1915,15 @@
     "editorOverviewRuler.border": "#7f7f7f4d",
     "editorOverviewRuler.findMatchForeground": "#fdd26ee0",
     "editorOverviewRuler.selectionHighlightForeground": "#11ff84f0",
+    "editorOverviewRuler.rangeHighlightForeground": "#11ff8480",
+    "editorOverviewRuler.wordHighlightForeground": "#ff14e060",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#ff14e0aa",
+    "editorOverviewRuler.modifiedForeground": "#46d2e8",
+    "editorOverviewRuler.addedForeground": "#00c060",
+    "editorOverviewRuler.deletedForeground": "#e73752",
+    "editorOverviewRuler.errorForeground": "#e55066",
+    "editorOverviewRuler.warningForeground": "#fdd26e",
+    "editorOverviewRuler.infoForeground": "#00e6bb",
 
     // ========================================
     // Editor - Indent Guides
@@ -2128,6 +2137,24 @@
     "keybindingLabel.foreground": "#46d2e8",
     "keybindingLabel.background": "#ff14e040",
     "textLink.foreground": "#46d2e8",
+
+    // ========================================
+    // Quick Picker (Command Palette)
+    // ========================================
+    "quickInput.background": "#121212",
+    "quickInput.foreground": "#fd9bcc",
+    "quickInputList.focusBackground": "#ff14e056",
+    "quickInputList.focusForeground": "#11ff84",
+    "quickInputList.focusIconForeground": "#11ff84",
+    "quickInputTitle.background": "#121212",
+
+    // ========================================
+    // Welcome Page
+    // ========================================
+    "welcomePage.background": "#080808",
+    "welcomePage.tileBackground": "#1f1f1f",
+    "welcomePage.tileHoverBackground": "#2a2a2a",
+    "welcomePage.tileBorder": "#ff14e040",
 
     // ========================================
     // Notifications
