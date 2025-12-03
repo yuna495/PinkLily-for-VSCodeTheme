@@ -2,7 +2,7 @@
   "name": "pinklily",
   "displayName": "PinkLily",
   "description": "Pinklilie.",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "publisher": "yuna495",
   "engines": {
     "vscode": "^1.90.0"
@@ -24,5 +24,5 @@
       }
     ]
   },
-  "icon": "./themes/PinkLiLy.png"
+  "icon": "themes/icon.png"
 }

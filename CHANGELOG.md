@@ -29,3 +29,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 #### 1.0.4
 
   "markdown" color change
+
+#### 1.0.5
+
+  "Highligt" to green base
+  "terminal" color change
+
+#### 1.0.6
+
+  "git" color change
